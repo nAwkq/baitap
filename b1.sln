@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b1", "b1\b1.csproj", "{37D3A879-2F4D-4D27-B85A-2C7AF340269E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "model", "model", "{45F6C3CC-EB52-4EC0-96D2-C055C85CA28E}"
+	ProjectSection(SolutionItems) = preProject
+		lecture.cs = lecture.cs
+<<<<<<< HEAD
+=======
+		researcher.cs = researcher.cs
+>>>>>>> v2
+		student.cs = student.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D3A879-2F4D-4D27-B85A-2C7AF340269E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D3A879-2F4D-4D27-B85A-2C7AF340269E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D3A879-2F4D-4D27-B85A-2C7AF340269E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D3A879-2F4D-4D27-B85A-2C7AF340269E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D713A61-0C27-4C27-B89A-2EF8D548C4B9}
+	EndGlobalSection
+EndGlobal
