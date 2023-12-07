@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b1", "b1\b1.csproj", "{37D3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "model", "model", "{45F6C3CC-EB52-4EC0-96D2-C055C85CA28E}"
 	ProjectSection(SolutionItems) = preProject
+		lecture.cs = lecture.cs
 		student.cs = student.cs
 	EndProjectSection
 EndProject
